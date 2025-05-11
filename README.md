@@ -5,12 +5,6 @@ Este projeto é ideal para testar lógicas de UI, DOM dinâmico e simulações d
 
 ---
 
-## 📚 Objetivo do Projeto
-
-Este projeto foi criado com fins **educacionais** e de **aprimoramento técnico**, servindo como laboratório de experimentação com **JavaScript puro**, **event listeners**, **manipulação de DOM**, **responsividade** e simulações interativas.
-
----
-
 ## 🖼️ Captura de Tela
 
 - Tema Claro
